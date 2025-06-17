@@ -5,6 +5,9 @@ Martial arts instructor by day, code craftsman by night.
 
 I’m driven by the pursuit of perfection—whether it’s in technique, design, or low-level systems. My journey into programming started with one goal: to **create**. Especially games. I build things from the ground up because understanding the foundations matters.
 
+„An idiot admires complexity,
+a genius admires simplicity”
+
 ## 🛠 Tech Stack
 
 **Languages & Tools I use or explore:**
@@ -53,7 +56,7 @@ Currently deepening my knowledge in:
 - Low-level systems  
 - Game development  
 - Web development  
-- Complex architecture  
+- Complex architecture
 - Tools that favor precision and clarity  
 - Drawing, painting, and 3D modeling  
 - Simulating physics and genetic algorithms
